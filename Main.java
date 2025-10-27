@@ -14,7 +14,6 @@ public class Main {
         int maxDiv2_1 = -1;
         int maxDiv2_2 = -1;
 
-        // ОДИН цикл FOR для анализа всех элементов
         for (int i = 0; i < arr.length; i++) {
             int num = arr[i];
 
